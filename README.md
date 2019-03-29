@@ -14,9 +14,9 @@
 
 >目前版本 **10.14.3** 使用正常。双显示器使用正常。
 
-![image-20190329145720215](/Users/xuejianghui/Documents/workspace/hackintosh-efi/assets/image-20190329145720215.png)
+![image-20190329145720215](./assets/image-20190329145720215.png)
 
-![image-20190329145931423](/Users/xuejianghui/Documents/workspace/hackintosh-efi/assets/image-20190329145931423.png)
+![image-20190329145931423](./assets/image-20190329145931423.png)
 
 ### 三、BOIS 修改
 
