@@ -22,7 +22,7 @@
 
 1. 硬盘模式调整为 AHCI
 2. 开启支持 UEFI 启动，一般默认是开启的
-3. 关闭VT-d，安完完系统后，再开启
+3. 关闭VT-d，安装完系统后，再开启
 4. 关闭CFG-Lock（我的BIOS没有此选项）
 5. 关闭Secure Boot Mode
 6. OS Type选项，设置为 Other OS
