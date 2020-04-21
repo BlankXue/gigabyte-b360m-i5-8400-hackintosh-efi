@@ -1,4 +1,4 @@
-# hackintosh-efi
+# gigabyte-b360m-i5-8400-hackintosh-efi
 觉得还不错，望能加个  :star:star  :smile:
 
 ### 一、我的主机配置
